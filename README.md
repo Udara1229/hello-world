@@ -1,2 +1,5 @@
 # hello-world
-Just another repositary
+
+Hi all,
+
+I like statistics and I'm an undergraduate at University of Colombo
